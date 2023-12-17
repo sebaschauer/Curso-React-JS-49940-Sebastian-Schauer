@@ -1,0 +1,29 @@
+
+.contGralMenu {
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    text-decoration: none;
+    display: flex;
+    color: white;
+}
+
+.MenuNavBar{
+    text-decoration: none;
+    display: inline-flex;
+    padding: 10px;
+    gap: 20px;
+    color: white;
+}
+.ItemMenu{
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+
+.ItemMenu a{
+    text-decoration: none;
+    color: white;
+}

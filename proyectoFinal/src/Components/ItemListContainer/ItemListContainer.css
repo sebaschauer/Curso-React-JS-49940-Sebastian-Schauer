@@ -1,0 +1,12 @@
+
+.contenedorGral{
+    background-color: white;
+    color: black;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+.contSaludo{
+    padding: 10px;
+}
