@@ -5,7 +5,8 @@ import './CartWidget.css'
 const CartWidget = () => {
   return (
     <div className="contenedorCart">
-        <a href=""><IoCartOutline className="iconoCarrito"/><span className="cantCarrito"> (1)</span></a>    
+        <a href=""><IoCartOutline className="iconoCarrito"/></a> 
+        <a href=""><span className="cantCarrito"> (1)</span></a>   
     </div>
   )
 }

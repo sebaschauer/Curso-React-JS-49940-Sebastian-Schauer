@@ -1,11 +1,7 @@
 
 .contenedorCart{
-    font-size: 20px;
-    text-align: center;
-    justify-content: center;
-    padding: 10px;
-    align-items: center;
-    margin-top: 55px;
+ display: inline-block;
+ padding: 65px;
 }
 
 .contenedorCart a{
@@ -14,7 +10,15 @@
     color: white;
     text-align: center;
     justify-content: center;
-    padding: 10px;
     align-items: center;
 }
 
+.iconoCarrito{
+    font-size: 30px;
+    text-align: center;
+}
+
+.cantCarrito span{
+    font-size: 30px;
+    text-align: center;
+}

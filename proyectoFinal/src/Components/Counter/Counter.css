@@ -1,0 +1,31 @@
+
+.contenedorGralCont{
+    padding: 10px;
+  
+}
+
+.contenedorContador{
+    padding: 10px;
+    display: inline-block;
+   
+}
+
+.botonAgregar{
+    background-color: green;
+    padding: 10px;
+    border-color: black;
+    font-size: 18px;
+}
+
+.botonEliminar{
+    background-color: red;
+    padding: 10px;
+    border-color: black;
+    font-size: 18px;
+}
+
+.contador{
+    padding: 30px;
+    font-size: 25px;
+    
+}

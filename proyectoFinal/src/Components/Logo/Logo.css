@@ -3,9 +3,14 @@
     font-size: 40px;
     padding: 10px;
     margin-top: 20px;
+    gap: 15px;
 }
 
 .nameLogo a{
   text-decoration: none;
   color: white;
+}
+
+.imgLogo{
+  padding: 5px;
 }
